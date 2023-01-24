@@ -1,2 +1,2 @@
-# Website calculate calories
- This website made for calculate calories
+# Website Daily calculate
+This website made for everyone who need to know how many their spend on this day.
